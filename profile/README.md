@@ -2,7 +2,7 @@
 
 At Shadcn Labs, we are committed to building open-source technologies that push the limits of [shadcn/ui][1] ecosystem.
 
-| [termcn][2] | [![termcn][3]][2] | [framecn][5] | [![framecn][5]][4] |
+| [termcn][2] | [![termcn][3]][2] | [framecn][4] | [![framecn][5]][4] |
 | :-: | :-: | :-: | :-: |
 | [startercn][6] | [![startercn][7]][6] | |
 
