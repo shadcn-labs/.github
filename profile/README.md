@@ -4,11 +4,11 @@ At Shadcn Labs, we are committed to building open-source technologies that push 
 
 Not endorsed by or affiliated with [shadcn](https://github.com/shadcn).
 
-| [startercn][1] | [![startercn][2]][1] | [skills][3] | [![skills][4]][3] |
+| [startercn][1] | [![startercn][2]][1] | [shadcn-cssinjs][13] | [![shadcn-cssinjs][14]][13] |
 | :-: | :-: | :-: | :-: |
-| [termcn][5] | [![termcn][6]][5] | [framecn][7] | [![framecn][8]][7] |
-| [ogimagecn][9] | [![ogimagecn][10]][9] | [agentcn][11] | [![agentcn][12]][11] |
-| [shadcn-cssinjs][13] | [![shadcn-cssinjs][14]][13] | [mcpcn][15] | [![mcpcn][16]][15] |
+| [skills][3] | [![skills][4]][3] | [termcn][5] | [![termcn][6]][5] |
+| [framecn][7] | [![framecn][8]][7] | [ogimagecn][9] | [![ogimagecn][10]][9] |
+| [agentcn][11] | [![agentcn][12]][11] | [mcpcn][15] | [![mcpcn][16]][15] |
 
 We have more to offer in the future. Stay tuned!
 
