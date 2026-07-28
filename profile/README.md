@@ -9,6 +9,7 @@ Not endorsed by or affiliated with [shadcn](https://github.com/shadcn).
 | [skills][3] | [![skills][4]][3] | [termcn][5] | [![termcn][6]][5] |
 | [framecn][7] | [![framecn][8]][7] | [ogimagecn][9] | [![ogimagecn][10]][9] |
 | [agentcn][11] | [![agentcn][12]][11] | [mcpcn][15] | [![mcpcn][16]][15] |
+| [emailcn][17] | [![emailcn][18]][17] | | |
 
 We have more to offer in the future. Stay tuned!
 
@@ -28,3 +29,5 @@ We have more to offer in the future. Stay tuned!
 [14]: https://shadcn-cssinjs.vercel.app/og
 [15]: https://github.com/shadcn-labs/mcpcn
 [16]: https://mcpcn-ashy.vercel.app/og.png
+[17]: https://github.com/shadcn-labs/emailcn
+[18]: https://emailcn.vercel.app/og.png
