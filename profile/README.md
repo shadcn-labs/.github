@@ -16,7 +16,7 @@ We have more to offer in the future. Stay tuned!
 [1]: https://github.com/shadcn-labs/startercn
 [2]: https://startercn.vercel.app/og
 [3]: https://github.com/shadcn-labs/skills
-[4]: https://opengraph.githubassets.com/3fcb118f37c8472c7a562db452ce1d49365c735f66704c2d74e32d3574efa6a9/shadcn-labs/skills
+[4]: https://github.com/shadcn-labs/skills/blob/main/assets/og.png
 [5]: https://github.com/shadcn-labs/termcn
 [6]: https://termcn.vercel.app/og.png
 [7]: https://github.com/shadcn-labs/framecn
