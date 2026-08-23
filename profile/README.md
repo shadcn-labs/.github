@@ -10,7 +10,7 @@ Not endorsed by or affiliated with [shadcn](https://github.com/shadcn).
 | [framecn][7] | [![framecn][8]][7] | [ogimagecn][9] | [![ogimagecn][10]][9] |
 | [agentcn][11] | [![agentcn][12]][11] | [mcpcn][15] | [![mcpcn][16]][15] |
 | [emailcn][17] | [![emailcn][18]][17] | [pdfcn][19] | [![pdfcn][20]][19] |
-| [maccn][21] | [![maccn][22]][21] | | |
+| [maccn][21] | [![maccn][22]][21] | [editorcn][24] | [![editorcn][24]][23] |
 
 We have more to offer in the future. Stay tuned!
 
@@ -36,3 +36,5 @@ We have more to offer in the future. Stay tuned!
 [20]: https://pdfcn.vercel.app/og.png
 [21]: https://github.com/shadcn-labs/maccn
 [22]: https://maccn.vercel.app/og.png
+[23]: https://github.com/shadcn-labs/editorcn
+[24]: https://editorcn.vercel.app/og.png
