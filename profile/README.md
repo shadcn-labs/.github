@@ -11,6 +11,8 @@ Not endorsed by or affiliated with [shadcn](https://github.com/shadcn).
 | [agentcn][11] | [![agentcn][12]][11] | [mcpcn][15] | [![mcpcn][16]][15] |
 | [emailcn][17] | [![emailcn][18]][17] | [pdfcn][19] | [![pdfcn][20]][19] |
 | [editorcn][21] | [![editorcn][22]][21] | [shadercn][23] | [![shadercn][24]][23] |
+| [mdxcn][25] | [![mdxcn][26]][25] | [snapcn][27] | [![snapcn][28]][27] |
+| [shadcn-form][29] | [![shadcn-form][30]][29] | | |
 
 We have more to offer in the future. Stay tuned!
 
@@ -38,3 +40,9 @@ We have more to offer in the future. Stay tuned!
 [22]: https://editorcn.vercel.app/og.png
 [23]: https://github.com/shadcn-labs/shadercn
 [24]: https://shaderscn.vercel.app/og.png
+[25]: https://github.com/shadcn-labs/mdxcn
+[26]: https://mdxcn.dev/og.png
+[27]: https://github.com/shadcn-labs/snapcn
+[28]: https://snapcn.dev/og
+[29]: https://github.com/shadcn-labs/form-builder
+[30]: https://shadcn-form.com/meta.png
